@@ -1,0 +1,7 @@
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\bin\Release\Program.exe.config
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\bin\Release\Program.exe
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\bin\Release\Program.pdb
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\bin\Release\SimpleInjector.dll
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\bin\Release\SimpleInjector.xml
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\obj\Release\Program.exe
+c:\users\patryk sęk\documents\visual studio 2017\Projects\Program\Program\obj\Release\Program.pdb
